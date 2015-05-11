@@ -1,0 +1,24 @@
+{
+  "name": "eve",
+  "version": "0.0.1-dev",
+  "description": "",
+  "main": "eve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:chielkunkels/eve.git"
+  },
+  "author": "chielkunkels",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chielkunkels/eve/issues"
+  },
+  "homepage": "https://github.com/chielkunkels/eve",
+  "dependencies": {
+    "inherits": "^2.0.1",
+    "slack-client": "^1.4.0",
+    "yargs": "^3.8.0"
+  }
+}

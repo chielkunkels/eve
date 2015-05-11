@@ -1,0 +1,7 @@
+{
+	"name": "eve",
+	"adapter": {
+		"type": "slack",
+		"token": "xoxb-"
+	}
+}
