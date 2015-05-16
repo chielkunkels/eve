@@ -1,6 +1,6 @@
 {
   "name": "marvin",
-  "version": "0.0.1-dev",
+  "version": "0.0.1",
   "description": "",
   "main": "marvin.js",
   "repository": {
