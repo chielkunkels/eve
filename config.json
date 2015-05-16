@@ -1,5 +1,5 @@
 {
-	"name": "eve",
+	"name": "marvin",
 	"adapter": {
 		"type": "slack",
 		"token": "xoxb-"

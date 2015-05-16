@@ -1,18 +1,18 @@
 {
-  "name": "eve",
+  "name": "marvin",
   "version": "0.0.1-dev",
   "description": "",
-  "main": "eve.js",
+  "main": "marvin.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:chielkunkels/eve.git"
+    "url": "git@github.com:chielkunkels/marvin.git"
   },
   "author": "chielkunkels",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chielkunkels/eve/issues"
+    "url": "https://github.com/chielkunkels/marvin/issues"
   },
-  "homepage": "https://github.com/chielkunkels/eve",
+  "homepage": "https://github.com/chielkunkels/marvin",
   "dependencies": {
     "inherits": "^2.0.1",
     "slack-client": "^1.4.0",

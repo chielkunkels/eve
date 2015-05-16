@@ -1,7 +1,7 @@
 'use strict';
 
-module.exports = function(eve){
-	eve.respond(/^ping$/, function(res){
+module.exports = function(robot){
+	robot.respond(/^ping$/, function(res){
 		res.reply('pong');
 	});
 };

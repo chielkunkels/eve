@@ -7,10 +7,10 @@ var argv = require('yargs').default('c', './config.json').argv;
 var path = require('path');
 var config = require(path.resolve(argv.c));
 
-var eve = new (require('./lib/eve'))(config);
+var robot = new (require('./lib/robot'))(config);
 
-eve.on('connected', function(){
-	eve.loadModules(path.resolve('modules'));
+robot.on('connected', function(){
+	robot.loadModules(path.resolve('modules'));
 });
 
-eve.run();
+robot.run();
