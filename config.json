@@ -1,5 +1,6 @@
 {
 	"name": "marvin",
+	"log_level": "info",
 	"adapter": {
 		"type": "slack",
 		"token": "xoxb-"
